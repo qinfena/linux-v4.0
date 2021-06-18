@@ -3,7 +3,7 @@ VERSION = 4
 PATCHLEVEL = 15
 SUBLEVEL = 0
 EXTRAVERSION =
-NAME = Fearless Coyote
+NAME = xiangxianjun
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
@@ -1722,3 +1722,5 @@ FORCE:
 # Declare the contents of the .PHONY variable as phony.  We keep that
 # information in a variable so we can use it in if_changed and friends.
 .PHONY: $(PHONY)
+
+#demo for rebase by xiangxianjun //在最后一行添加,为了将来变基制造冲突
